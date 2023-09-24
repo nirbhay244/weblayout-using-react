@@ -1,0 +1,45 @@
+
+
+header{
+  width: 980px;
+  height: 140px;
+  background-color: aqua;
+  border: 2px solid;
+  margin: auto;
+  margin-bottom: 10px;
+}
+main{
+  width: 980px;
+  height: 450px;
+  /* background-color: aqua; */
+  /* border: 2px solid; */
+  margin: auto;
+  margin-bottom: 10px;
+}
+aside{
+  width: 250px;
+  height: 450px;
+  background-color: aqua;
+  border: 2px solid;
+  margin: auto;
+  float: left;
+  /* margin-bottom: 10px;/ */
+}
+section{
+  width: 713.6px;
+  height: 450px;
+  background-color: aqua;
+  border: 2px solid;
+  margin: auto;
+  float: left;
+  margin-left: 10px;
+}
+footer{
+  width: 980px;
+  height: 70px;
+  background-color: aqua;
+  border: 2px solid;
+  margin: auto;
+
+
+}
